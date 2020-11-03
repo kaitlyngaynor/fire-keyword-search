@@ -1,0 +1,43 @@
+Index,Initials,Search_type,Date of Search,Database,Keywords,Forest_or_not,Habitat,Management_or_fire,Date Restrictions (aim for 2000-2020),"Search terms applied to (ex. title, headline, abstract, all text, etc)",Hits,Notes
+1,CW,News,10/29/20,Access World News,"California AND ""forest fire*""",Forest,Forest,Fire,2000-2020,All text,170379,for all U.S. news
+2,CW,News,10/29/20,Access World News,"California AND ""shrub fire*""",Non_forest,Shrub,Fire,2000-2020,All text,2156,for all U.S. news
+3,CW,News,10/29/20,Access World News,"California AND ""brush fire*""",Non_forest,Brush,Fire,2000-2020,All text,71444,for all U.S. news
+4,CW,News,10/29/20,Access World News,"California AND ""grass* fire*""",Non_forest,Grass,Fire,2000-2020,All text,59271,for all U.S. news
+5,CW,News,10/29/20,Access World News,"California AND ""woodland fire*""",Non_forest,Woodland,Fire,2000-2020,All text,28215,for all U.S. news
+6,CW,News,10/29/20,Access World News,"California AND ""forest manage*"" AND fire",Forest,Forest,Management,2000-2020,All text,52988,for all U.S. news
+7,CW,News,10/29/20,Access World News,"California AND ""shrub manage*"" AND fire",Non_forest,Shrub,Management,2000-2020,All text,883,for all U.S. news
+8,CW,News,10/29/20,Access World News,"California AND ""brush manage*"" AND fire",Non_forest,Brush,Management,2000-2020,All text,20013,for all U.S. news
+9,CW,News,10/29/20,Access World News,"California AND ""grass* manage*"" AND fire",Non_forest,Grass,Management,2000-2020,All text,25145,for all U.S. news
+10,CW,News,10/29/20,Access World News,"California AND ""woodland manage*"" AND fire",Non_forest,Woodland,Management,2000-2020,All text,6104,for all U.S. news
+11,CW,News,,Access World News,"California AND ""wildfire*""",Non_forest,NA,Fire,2000-2020,All text,,for all U.S. news
+12,CW,News,,Access World News,"California AND ""land manage*"" AND fire",Non_forest,NA,Management,2000-2020,All text,,for all U.S. news
+13,CW,News,,Access World News,"California AND (""shrub fire*"" OR ""brush fire*"" OR ""grass* fire*"" OR ""woodland fire*"")",Non_forest,NA,Fire,2000-2020,All text,,for all U.S. news
+14,CW,News,,Access World News,"California AND fire AND (""shrub manage*"" OR ""brush manage*"" OR ""grass* manage*"" OR ""woodland manage*"")",Non_forest,NA,Management,2000-2020,All text,,for all U.S. news
+15,CW,News,10/29/20,Access World News,"California AND ""forest fire*""",Forest,Forest,Fire,2000-2020,All text,66277,for CA news
+16,CW,News,,Access World News,"California AND ""shrub fire*""",Non_forest,Shrub,Fire,2000-2020,All text,,for CA news
+17,CW,News,,Access World News,"California AND ""brush fire*""",Non_forest,Brush,Fire,2000-2020,All text,,for CA news
+18,CW,News,,Access World News,"California AND ""grass* fire*""",Non_forest,Grass,Fire,2000-2020,All text,,for CA news
+19,CW,News,,Access World News,"California AND ""woodland fire*""",Non_forest,Woodland,Fire,2000-2020,All text,,for CA news
+20,CW,News,,Access World News,"California AND ""forest manage*"" AND fire",Forest,Forest,Management,2000-2020,All text,,for CA news
+21,CW,News,,Access World News,"California AND ""shrub manage*"" AND fire",Non_forest,Shrub,Management,2000-2020,All text,,for CA news
+22,CW,News,,Access World News,"California AND ""brush manage*"" AND fire",Non_forest,Brush,Management,2000-2020,All text,,for CA news
+23,CW,News,,Access World News,"California AND ""grass* manage*"" AND fire",Non_forest,Grass,Management,2000-2020,All text,,for CA news
+24,CW,News,,Access World News,"California AND ""woodland manage*"" AND fire",Non_forest,Woodland,Management,2000-2020,All text,,for CA news
+25,CW,News,,Access World News,"California AND ""wildfire*""",Non_forest,NA,Fire,2000-2020,All text,,for CA news
+26,CW,News,,Access World News,"California AND ""land manage*"" AND fire",Non_forest,NA,Management,2000-2020,All text,,for CA news
+27,CW,News,,Access World News,"California AND (""shrub fire*"" OR ""brush fire*"" OR ""grass* fire*"" OR ""woodland fire*"")",Non_forest,NA,Fire,2000-2020,All text,,for CA news
+28,CW,News,,Access World News,"California AND fire AND (""shrub manage*"" OR ""brush manage*"" OR ""grass* manage*"" OR ""woodland manage*"")",Non_forest,NA,Management,2000-2020,All text,,for CA news
+29,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""forest fire*""",Forest,Forest,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",373,
+30,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""shrub fire*""",Non_forest,Shrub,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",0,
+31,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""brush fire*""",Non_forest,Brush,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",7,
+32,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""grass* fire*""",Non_forest,Grass,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",19,
+33,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""woodland fire*""",Non_forest,Woodland,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",0,
+34,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""forest manage*"" AND fire",Forest,Forest,Management,2000-2020,"Topic (Title, Abstract, Keywords)",146,
+35,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""shrub manage*"" AND fire",Non_forest,Shrub,Management,2000-2020,"Topic (Title, Abstract, Keywords)",1,
+36,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""brush manage*"" AND fire",Non_forest,Brush,Management,2000-2020,"Topic (Title, Abstract, Keywords)",0,
+37,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""grass* manage*"" AND fire",Non_forest,Grass,Management,2000-2020,"Topic (Title, Abstract, Keywords)",2,
+38,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""woodland manage*"" AND fire",Non_forest,Woodland,Management,2000-2020,"Topic (Title, Abstract, Keywords)",2,
+39,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""wildfire*""",Non_forest,NA,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",1523,
+40,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND ""land manage*"" AND fire",Non_forest,NA,Management,2000-2020,"Topic (Title, Abstract, Keywords)",1523,
+41,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND (""shrub fire*"" OR ""brush fire*"" OR ""grass* fire*"" OR ""woodland fire*"")",Non_forest,NA,Fire,2000-2020,"Topic (Title, Abstract, Keywords)",26,
+42,KG,Academic,11/2/2020,Web of Science Core Collection,"California AND fire AND (""shrub manage*"" OR ""brush manage*"" OR ""grass* manage*"" OR ""woodland manage*"")",Non_forest,NA,Management,2000-2020,"Topic (Title, Abstract, Keywords)",5,
